@@ -1,7 +1,4 @@
-#!/usr/bin/env bash
-# One command to finish the submission on your own machine:
-#   tests -> real transcript -> consistency check -> secret check -> recall-space-submission.zip
-# Not part of the submission itself (it is left out of the zip).
+
 set -eu
 cd "$(dirname "$0")"
 PROJECT="$(basename "$PWD")"
