@@ -1,9 +1,4 @@
-"""Q1 scenario: a sixth file arrives - a second supplier price list in another format.
 
-Supporting it takes one new loader and one registry entry. Nothing in index.py, answer.py or the
-parsers changes. Both prices are shown side by side with their own supplier and date, never merged,
-and never mixed with each other's supplier.
-"""
 import json
 import shutil
 from types import SimpleNamespace
