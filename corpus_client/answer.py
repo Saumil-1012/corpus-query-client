@@ -1,8 +1,4 @@
-"""Query -> printed answer. Deterministic: only prints values that exist in the files.
 
-Every value is printed with the file and row it came from. Every gap is printed with the
-reason: either "no file has it" or "the file has the column but the cell is empty".
-"""
 from __future__ import annotations
 
 import re
