@@ -1,14 +1,4 @@
-"""Question -> Query using an LLM (Azure OpenAI by default, or Anthropic Claude).
 
-What is sent to the API: ONLY the user's question text, a fixed instruction and the form
-(tool schema) below. No product data, no file contents, no prices are ever sent. The LLM
-cannot answer the question, it can only fill in a form (intent, SKU, field, manufacturer, scope).
-
-Its output is then checked: an SKU or manufacturer name the LLM returns must literally
-appear in the question, otherwise it is rejected. So the LLM cannot "invent" an SKU.
-
-Provider is chosen with LLM_PROVIDER = "azure" (default) or "anthropic".
-"""
 from __future__ import annotations
 
 import json
