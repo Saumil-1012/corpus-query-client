@@ -1,8 +1,4 @@
-"""Question -> Query with plain keyword rules. Optional (--parser rules).
 
-Used for the automated tests and when no API key is available. It understands far fewer
-phrasings than the LLM parser; anything it does not recognise becomes "unsupported".
-"""
 from __future__ import annotations
 
 import re
