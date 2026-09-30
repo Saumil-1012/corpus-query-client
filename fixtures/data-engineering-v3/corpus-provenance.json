@@ -1,0 +1,13 @@
+{
+  "schema_version": "recall-de.corpus-provenance.v1",
+  "status": "synthetic",
+  "license": "Recall Space internal synthetic evaluation data",
+  "description": "Entirely fictional multi-source corpus for the data-engineering team v3: two HTML seller catalogues, one semicolon CSV supplier pricelist, one JSON manufacturer specification sheet, and one XML distributor feed. No real products, manufacturers, prices, GTINs, or PZNs are represented.",
+  "sources": [
+    "catalogue-a.html",
+    "catalogue-b.html",
+    "supplier-pricelist.csv",
+    "manufacturer-specs.json",
+    "distributor-feed.xml"
+  ]
+}

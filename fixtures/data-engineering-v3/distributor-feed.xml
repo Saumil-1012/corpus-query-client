@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="urn:synthetic:distributor:v1" generated="2026-07-01">
+  <item>
+    <gtin>04012345000011</gtin>
+    <sellerSku>SYN-100-15S</sellerSku>
+    <pzn>08150011</pzn>
+    <package level="box" quantity="12" unit="each"/>
+    <description>Fictional training cannula, single-use, box of 12</description>
+  </item>
+  <item>
+    <gtin>04012345000028</gtin>
+    <sellerSku>SYN-142-21T</sellerSku>
+    <pzn>08150028</pzn>
+    <package level="box" quantity="12" unit="each"/>
+    <description>Fictional training cannula, single-use, box of 12</description>
+  </item>
+  <item>
+    <gtin>04012345000035</gtin>
+    <sellerSku>SYN-184-27U</sellerSku>
+    <pzn>08150035</pzn>
+    <package level="case" quantity="12" unit="box"/>
+    <description>Fictional training cannula, single-use, case of 12 boxes</description>
+  </item>
+  <item>
+    <gtin>04012345000066</gtin>
+    <sellerSku>SYN-128-19Z</sellerSku>
+    <pzn>08150066</pzn>
+    <package level="inner_pack" quantity="25" unit="each"/>
+    <description>Fictional protective sleeve pack, inner pack of 25</description>
+  </item>
+</feed>

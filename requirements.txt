@@ -1,0 +1,8 @@
+# Runtime
+openai>=1.40             # Azure OpenAI question parser (default)
+anthropic>=0.40          # alternative question parser (LLM_PROVIDER=anthropic)
+beautifulsoup4>=4.12     # reading the two HTML catalogues
+python-dotenv>=1.0       # reads .env if present (optional)
+
+# Tests
+pytest>=8.0

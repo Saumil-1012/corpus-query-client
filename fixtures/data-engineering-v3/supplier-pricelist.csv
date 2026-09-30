@@ -1,0 +1,15 @@
+Artikelnummer;Hersteller;Modellname;Groesse (G);Aussendurchmesser [mm];Arbeitslaenge [mm];Anschluss;Steril;Preis EUR;Waehrung
+SYN-100-15S;RecallSafe Instruments GmbH;RecallSafe 100;15;1.83;40;Luer-Lock;ja;12.40;EUR
+SYN-142-21T;RecallSafe Instruments GmbH;RecallSafe 142;21;0.82;50;Luer-Lock;ja;9.80;EUR
+SYN-184-27U;RecallSafe Instruments GmbH;RecallSafe 184;27;0.41;60;Luer-Slip;ja;8.15;EUR
+SYN-226-33X;RecallSafe Instruments GmbH;RecallSafe 226;33;0.21;70;Luer-Lock;ja;11.90;EUR
+SYN-268-39Z;RecallSafe Instruments GmbH;RecallSafe 268;39;0.10;80;Luer-Lock;nein;10.35;EUR
+SYN-310-15S;RecallSafe Instruments GmbH;RecallSafe 310;15;1.83;40;Luer-Lock;ja;12.40;EUR
+SYN-352-21T;RecallSafe Instruments GmbH;RecallSafe 352;21;0.82;50;;ja;9.80;EUR
+SYN-394-27U;RecallSafe Instruments GmbH;RecallSafe 394;27;;60;Luer-Slip;ja;8.15;EUR
+SYN-107-16T;RecallFlex Medical AG;RecallFlex 107;;;;;;4.60;EUR
+SYN-121-18X;AcmeFlow Devices Ltd;AcmeFlow 121;;;;;;18.20;EUR
+SYN-128-19Z;AcmeGuard Protective Ltd;AcmeGuard 128;;;;;;6.75;EUR
+SYN-135-20S;NimbusCare Supplies BV;NimbusCare 135;;;;;;3.10;EUR
+SYN-149-22U;RecallFlex Medical AG;RecallFlex 149;;;;;;4.60;EUR
+SYN-156-23X;RecallPro Diagnostics GmbH;RecallPro 156;;;;;;22.00;EUR
