@@ -1,9 +1,4 @@
-"""The structured query that a question is translated into.
 
-Both parsers (LLM and rules) produce this object; the answer engine only ever sees this,
-never the original free text. That is the boundary between "understanding the question"
-(may use an LLM) and "answering it" (deterministic code over the files).
-"""
 from __future__ import annotations
 
 from dataclasses import dataclass
