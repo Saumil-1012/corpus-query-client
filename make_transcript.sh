@@ -1,6 +1,4 @@
-#!/usr/bin/env bash
-# Runs the five assignment tasks with the default (LLM) parser and writes the real,
-# unedited terminal output to transcript.md.  Needs the LLM settings from .env (see .env.example).
+
 set -u
 cd "$(dirname "$0")"
 PY="${PYTHON:-$(command -v python || command -v python3)}"
