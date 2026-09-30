@@ -50,7 +50,7 @@ per box) are shown, not converted.
 
 ## Q2 — Communication
 
-Exact output for `--task "get the information on seller sku SYN-261-38X"` (also in `transcript.md`):
+Below is what my tool prints for product SYN-261-38X, and then the same answer as a short message to a buying colleague. The key point: our files only name this product; its price, maker, pack size and barcode are in none of them . Exact output for `--task "get the information on seller sku SYN-261-38X"` (also in `transcript.md`):
 
 ```text
 Understood as: all information on seller SKU SYN-261-38X   [parsed by Azure OpenAI gpt-4.1-mini]
